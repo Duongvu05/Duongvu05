@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Duong Ngoc Vu (Researcher) <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExenIwZGlyNG83dTlwYTQ2d3h4bTV1dHg4NzVxczNsbWZ1dDZya2xwcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/sHgFP93BheCurb7EXq/giphy.gif" width="35" />
+### Hi there <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExenIwZGlyNG83dTlwYTQ2d3h4bTV1dHg4NzVxczNsbWZ1dDZya2xwcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/sHgFP93BheCurb7EXq/giphy.gif" width="35" />, I'm Duong Ngoc Vu (Researcher)
 
 #### Let's Connect
 <a href="https://linkedin.com/in/ngoc-duong-47a-58292">
