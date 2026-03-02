@@ -47,6 +47,17 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Duongvu05&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" />
 </p>
 
+---
+
+## 💬 Favorite Quote
+
+<p align="center">
+  <em>"Whatever will be, will be."</em><br/>
+  <sub>— Que Sera, Sera</sub>
+</p>
+
+---
+
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Duongvu05&style=for-the-badge&color=orange" width="200" />
 </div>
