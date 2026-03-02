@@ -1,7 +1,7 @@
 ### Hi there <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExenIwZGlyNG83dTlwYTQ2d3h4bTV1dHg4NzVxczNsbWZ1dDZya2xwcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/sHgFP93BheCurb7EXq/giphy.gif" width="35" />, I'm Duong Ngoc Vu (Researcher)
 
 #### Let's Connect
-<a href="https://linkedin.com/in/ngoc-duong-47a-58292">
+<a href="https://www.linkedin.com/in/ngoc-duong-47a058292/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 <a href="https://www.facebook.com/ngoc.duong.451321/">
