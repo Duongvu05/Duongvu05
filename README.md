@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Duong Ngoc Vu (Researcher) <img src="https://media.giphy.com/media/manchester-united-mufc-sHgFP93BheCurb7EXq/giphy.gif" width="35" />
+### Hi there 👋, I'm Duong Ngoc Vu (Researcher) <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExenIwZGlyNG83dTlwYTQ2d3h4bTV1dHg4NzVxczNsbWZ1dDZya2xwcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/sHgFP93BheCurb7EXq/giphy.gif" width="35" />
 
 #### Let's Connect
 <a href="https://linkedin.com/in/ngoc-duong-47a-58292">
@@ -28,6 +28,7 @@
 - 💬 Ask me about: `Medical AI • Graph Neural Networks • Deep Learning • Multimodal Learning`
 - 📫 Reach me: [duongvn.bai@st.neu.edu.vn](mailto:duongvn.bai@st.neu.edu.vn)
 - ⚡ Fun fact: I enjoy bridging research and real-world impact in healthcare and finance.
+- 💬 Favorite quote: *"Whatever will be, will be."* — Que Sera, Sera
 
 ---
 
@@ -47,16 +48,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Duongvu05&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" />
 </p>
 
----
-
-## 💬 Favorite Quote
-
-<p align="center">
-  <em>"Whatever will be, will be."</em><br/>
-  <sub>— Que Sera, Sera</sub>
-</p>
-
----
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Duongvu05&style=for-the-badge&color=orange" width="200" />
