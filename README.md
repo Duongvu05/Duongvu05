@@ -30,24 +30,8 @@
 
 ---
 
-### 👨🏫 Community
-
-- **Teaching Assistant** — Machine Learning, NEU (Jan 2026)
-- **Reviewer** — National Conference on AI (FJCAI) 2026
-- **Mentor** — Fulbright STEM Mentorship Program, U.S. Embassy Hanoi (Feb – May 2025)
-
----
-
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Duongvu05&theme=dark&hide_border=true" alt="GitHub Streak" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Duongvu05&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats" />
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Duongvu05&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
-</p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Duongvu05&theme=darkhub&no-frame=true&column=6" alt="GitHub Trophies" />
-</p>
