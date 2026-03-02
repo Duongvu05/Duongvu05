@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Duong Ngoc Vu (Researcher)
+### Hi there 👋, I'm Duong Ngoc Vu (Researcher) <img src="https://media.giphy.com/media/manchester-united-mufc-sHgFP93BheCurb7EXq/giphy.gif" width="35" />
 
 #### Let's Connect
 <a href="https://linkedin.com/in/ngoc-duong-47a-58292">
